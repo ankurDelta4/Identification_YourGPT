@@ -100,10 +100,10 @@ This system provides secure identity verification for visitors using HMAC token 
 **Request Body:**
 ```json
 {
-  user_unique_id: unique id,
-  name: Username,
-  email: User's email,
-  phone: User's phone
+  "user_unique_id": "unique id",
+  "name": "Username",
+  "email": "User's email",
+  "phone": "User's phone"
 }
 ```
 
