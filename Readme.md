@@ -57,7 +57,7 @@ This system provides secure identity verification for visitors using HMAC token 
 │ created      │     │ validates    │      │ Token + contact  │
 └──────────────┘     │ token        │      │ details          │
                      └──────────────┘      └──────────────────┘
-```
+
 
 ### Authentication Flow Process
 
@@ -69,7 +69,7 @@ This system provides secure identity verification for visitors using HMAC token 
 6. YourGPT receives the token and contact details
 7. YourGPT validates the token
 8. User contact is created upon successful validation
-
+```
 ---
 
 ## 🚀 Getting Started
